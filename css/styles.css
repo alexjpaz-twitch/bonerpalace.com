@@ -1,0 +1,31 @@
+body, html {
+    background-color: #071C21;
+    font-family: "Prompt", sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%
+}
+
+.entry-button-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: stretch;
+    height: 100%;
+}
+
+.entry-button {
+    /* C6DE41 */
+    color: #2D6E7E;
+    border: 12px solid;
+    padding: 2vh 10vw;
+    font-size: 4vh;
+
+    align-self: center;
+
+    text-decoration: none;
+}
+
+.entry-button:visited {
+    color: #2D6E7E;
+}
