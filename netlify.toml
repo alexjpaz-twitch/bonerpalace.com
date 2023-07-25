@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "?embed"
+  to = "/invite"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/invite"
+  to = "https://discord.gg/e7c6W4cqR5"
+  status = 301
+  force = true
